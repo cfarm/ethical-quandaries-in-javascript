@@ -6,7 +6,8 @@
 - [Building Web Apps that Respect A User's Privacy and Security](https://github.com/ascott1/ethical-web-dev/tree/master/web-apps-privacy-security)
 
 ## Questions to answer
-- ### [How do browsers know our location?](https://en.wikipedia.org/wiki/W3C_Geolocation_API): 
+
+### [How do browsers know our location?](https://en.wikipedia.org/wiki/W3C_Geolocation_API): 
 
   > The most common sources of location information are IP address, Wi-Fi and Bluetooth MAC address, radio-frequency identification (RFID), Wi-Fi connection location, or device Global Positioning System (GPS) and GSM/CDMA cell IDs. The location is returned with a given accuracy depending on the best location information source available.
 
