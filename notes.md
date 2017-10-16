@@ -6,8 +6,13 @@
 - [Building Web Apps that Respect A User's Privacy and Security](https://github.com/ascott1/ethical-web-dev/tree/master/web-apps-privacy-security)
 
 ## Questions to answer
-- [How do browsers know our location?](https://en.wikipedia.org/wiki/W3C_Geolocation_API): "The most common sources of location information are IP address, Wi-Fi and Bluetooth MAC address, radio-frequency identification (RFID), Wi-Fi connection location, or device Global Positioning System (GPS) and GSM/CDMA cell IDs. The location is returned with a given accuracy depending on the best location information source available."
-  > GPS (Global Positioning System): This happens for any device which has GPS capabilities. A smartphone with GPS capabilities and set to high accuracy mode will be likely to obtain the location data from this. GPS calculate location information from the satellite signal. It has the highest accuracy; in most Android smartphones, the accuracy can be up to 10 metres.
+- ### [How do browsers know our location?](https://en.wikipedia.org/wiki/W3C_Geolocation_API): 
+
+  > The most common sources of location information are IP address, Wi-Fi and Bluetooth MAC address, radio-frequency identification (RFID), Wi-Fi connection location, or device Global Positioning System (GPS) and GSM/CDMA cell IDs. The location is returned with a given accuracy depending on the best location information source available.
+
+...
+
+> GPS (Global Positioning System): This happens for any device which has GPS capabilities. A smartphone with GPS capabilities and set to high accuracy mode will be likely to obtain the location data from this. GPS calculate location information from the satellite signal. It has the highest accuracy; in most Android smartphones, the accuracy can be up to 10 metres.
   
   > Mobile Network Location: Mobile phone tracking is used if a cellphone or wireless modem is used without a GPS chip built in.
   
